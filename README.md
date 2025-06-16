@@ -5,6 +5,7 @@
 
 🚀 **About Me:**  
 - 🌱 I’m currently learning **React and Python**
+- 💡 Fun Fact:  I code for fun, not just for work.
 
 ## 🛠️ Tech Stack
 
