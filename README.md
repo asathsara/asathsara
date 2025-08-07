@@ -2,9 +2,7 @@
 
 
 <h1 align="center">I'm Adeeksha Sathsara</h1>
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Passionate+Programmer+%F0%9F%94%A5;I+Love+Building+Cool+Things+With+Code;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Love+to+Code+and+Create+%F0%9F%92%A1&cursorColor=00FFFF" alt="Typing SVG" />
-</h2>
+
 
 🚀 **About Me:**  
 - 🌱 I’m currently learning **React and Python**.
