@@ -5,7 +5,6 @@
 
 
 🚀 **About Me:**  
-- 🌱 I’m currently learning **React and Python**.
 - 💡 Fun Fact:  I code for fun.
 - 🌐 Passionate about combining **frontend and backend** skills.
 - 🧠 I enjoy exploring topics like **AI, Data Science, and UI/UX**.
